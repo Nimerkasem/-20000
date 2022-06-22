@@ -1,0 +1,311 @@
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll.config
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.pdb
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.xml
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe.config
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.rsp
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe.config
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.rsp
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.AppContext.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Console.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe.config
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.rsp
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.Resources.resources
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.dll
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.xml
+C:\Users\asus\source\repos\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.pdb
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll.config
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.pdb
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.xml
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.AppContext.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Console.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.Resources.resources
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.GenerateResource.cache
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.dll
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.xml
+C:\Users\asus\OneDrive\שולחן העבודה\HTML final project\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.pdb
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll.config
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.pdb
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.xml
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.AppContext.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Console.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.Resources.resources
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.GenerateResource.cache
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.dll
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.xml
+C:\Users\asus\OneDrive\שולחן העבודה\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.pdb
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll.config
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.pdb
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\FINALPROJECT.xml
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csc.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\csi.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.AppContext.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Console.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\vbc.rsp
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.Resources.resources
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.GenerateResource.cache
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.dll
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.xml
+C:\Users\asus\OneDrive\שולחן העבודה\Ort Braude\סמסטר א\פרויקט סוף\full stack\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.pdb
+E:\project\FINALPROJECT\bin\FINALPROJECT.dll.config
+E:\project\FINALPROJECT\bin\FINALPROJECT.dll
+E:\project\FINALPROJECT\bin\FINALPROJECT.pdb
+E:\project\FINALPROJECT\bin\FINALPROJECT.xml
+E:\project\FINALPROJECT\bin\roslyn\csc.exe
+E:\project\FINALPROJECT\bin\roslyn\csc.exe.config
+E:\project\FINALPROJECT\bin\roslyn\csc.rsp
+E:\project\FINALPROJECT\bin\roslyn\csi.exe
+E:\project\FINALPROJECT\bin\roslyn\csi.exe.config
+E:\project\FINALPROJECT\bin\roslyn\csi.rsp
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\FINALPROJECT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\project\FINALPROJECT\bin\roslyn\System.AppContext.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Collections.Immutable.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Console.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Globalization.Calendars.dll
+E:\project\FINALPROJECT\bin\roslyn\System.IO.Compression.dll
+E:\project\FINALPROJECT\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\project\FINALPROJECT\bin\roslyn\System.IO.FileSystem.dll
+E:\project\FINALPROJECT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Net.Http.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Net.Sockets.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\project\FINALPROJECT\bin\roslyn\System.ValueTuple.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Xml.XPath.dll
+E:\project\FINALPROJECT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\FINALPROJECT\bin\roslyn\vbc.exe
+E:\project\FINALPROJECT\bin\roslyn\vbc.exe.config
+E:\project\FINALPROJECT\bin\roslyn\vbc.rsp
+E:\project\FINALPROJECT\bin\roslyn\VBCSCompiler.exe
+E:\project\FINALPROJECT\bin\roslyn\VBCSCompiler.exe.config
+E:\project\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\FINALPROJECT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.AssemblyReference.cache
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.Resources.resources
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.GenerateResource.cache
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.CoreCompileInputs.cache
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.vbproj.CopyComplete
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.dll
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.xml
+E:\project\FINALPROJECT\obj\Debug\FINALPROJECT.pdb
